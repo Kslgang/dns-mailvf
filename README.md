@@ -1,1 +1,2 @@
-# dns-mailvf
+# dns-mail
+dnsmail server

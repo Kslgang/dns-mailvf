@@ -1,0 +1,12 @@
+$TTL	86400
+@	IN	SOA	203-28.thomas-kissel.local	thomas.kissel.iutbeziers.fr  (
+			2019091701	; Serial
+			604800		; Refresh
+			86400		; Retry
+			2419200		; Expire
+			86400 )		; Negative Cache TTL
+;
+
+$ORIGIN thomas-kissel.local
+	IN	NS	206-0
+debian	IN	A	10.206.0.177
